@@ -1,0 +1,7 @@
+C:\Users\mari47jg\source\repos\Metoder og filer opg 1-3 H1\Metoder og filer opg 1-3 H1\bin\Debug\Metoder og filer opg 1-3 H1.exe.config
+C:\Users\mari47jg\source\repos\Metoder og filer opg 1-3 H1\Metoder og filer opg 1-3 H1\bin\Debug\Metoder og filer opg 1-3 H1.exe
+C:\Users\mari47jg\source\repos\Metoder og filer opg 1-3 H1\Metoder og filer opg 1-3 H1\bin\Debug\Metoder og filer opg 1-3 H1.pdb
+C:\Users\mari47jg\source\repos\Metoder og filer opg 1-3 H1\Metoder og filer opg 1-3 H1\obj\Debug\Metoder og filer opg 1-3 H1.csprojAssemblyReference.cache
+C:\Users\mari47jg\source\repos\Metoder og filer opg 1-3 H1\Metoder og filer opg 1-3 H1\obj\Debug\Metoder og filer opg 1-3 H1.csproj.CoreCompileInputs.cache
+C:\Users\mari47jg\source\repos\Metoder og filer opg 1-3 H1\Metoder og filer opg 1-3 H1\obj\Debug\Metoder og filer opg 1-3 H1.exe
+C:\Users\mari47jg\source\repos\Metoder og filer opg 1-3 H1\Metoder og filer opg 1-3 H1\obj\Debug\Metoder og filer opg 1-3 H1.pdb
