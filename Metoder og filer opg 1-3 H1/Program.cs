@@ -13,19 +13,34 @@ namespace Metoder_og_filer_opg_1_3_H1
         {
             //Opgave 1 Skriv til fil: 
 
-            File.WriteAllText(@".\StarWars.txt", "Han skød først");
+            WriteToFile("StarWars", "Han skød først");
 
             //Opgave 2 læs en tekstfil:
 
-            string content = File.ReadAllText(@".\StarWars.txt");//Udskriver teksten der står i tekstfilen
-            Console.WriteLine(content);
+            ReadFile("StarWars");
 
             //Opgave 3 slet en fil:
 
-            File.Delete(@".\StarWats.txt");
+            DeleteFile("StarWars");
 
             Console.ReadKey();
 
+        }
+        //Opretter metode til at skrive filer
+        public static void WriteToFile(string filename, string text)
+        {
+            File.WriteAllText(@".\filename.txt", text);
+        }
+        //Opretter metode til at læse en tekstfil
+        public static void ReadFile(string filename)
+        {
+            string content = File.ReadAllText(@".\StarWars.txt");//Udskriver teksten der står i tekstfilen
+            Console.WriteLine(content);
+        }
+        //Opretter metode der slettern en fil
+        public static void DeleteFile(string filename)
+        {
+            File.Delete(@".\StarWats.txt");
         }
     }
 }
